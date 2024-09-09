@@ -5,18 +5,6 @@
 
 This repository contains code for predicting medical insurance charges based on various features such as age, sex, BMI, children, smoking status, and region. The prediction is done using both Random Forest Regression and Time Series models like SARIMAX and ARIMAX. Additionally, the repository includes data exploration and visualization to gain insights into the dataset.
 
-## Table of Contents
-
-- [Dataset](#dataset)
-- [Data Preprocessing](#data-preprocessing)
-- [Model Training](#model-training)
-- [Model Evaluation](#model-evaluation)
-- [Time Series Models](#time-series-models)
-- [Results](#results)
-- [Visualizations](#visualizations)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Dataset
 
 The dataset used for this project is `insurance.csv`, which contains information about individuals and their medical charges.
